@@ -52,7 +52,7 @@ fun ApplicationPreview() {
     Scaffold(
         bottomBar = { BottomNavigationBar()}
     ) {
-            innerpadding ->(innerpadding)
+            innerpadding ->(innerpadding )
     }
 }
 
